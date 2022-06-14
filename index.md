@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+html>
 
-You can use the [editor on GitHub](https://github.com/Skullyo/Skullyo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+	<title>Personal Page</title>
+	<link rel="stylesheet" href="css/style1.css">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+	<div class="top-container">
+		<div class="profile">
+			<h2>Hi!</h2>
+			<p> My name's Ken. I like to watch anime, work out, animate, and play videogames! Pretty standard life.</p>
+			<img class="profile-pic" src="images/cool.jpg">
+		</div>
+		<hr class="hr-1">
+		<div class="skills">
+			<h2>What I Do Weekly:</h2>
+			<div class="gym-row">
+				<h3>Gym</h3>
+				<p>I go to the gym 2 times a week. My training consists of different focuses per lesson such as training my biceps, cores, tricpes, and so on.</p>
+				<img class="gym-pic" src="images/curling_maching.jpg">
+			</div>
+			<div class="school-row">
+				<h3>School</h3>
+				<p>Like most people, I go to school. Nothing really special about that, but I did learn how to make this website there</p>
+				<img class="school-pic" src="images/school.jfif" alt="School">
+			</div>
+		</div>
+	<div class="bottom-container">
+		<div class="video_games-row">
+			<h3>Video Games</h3>
+			<p>I enjoy videogames from time to time, usually the casual stuff like Minecraft, roblox. Sonic Mania or Black Ops III</p>
+			<img class="video-games-pic" src="images/video_game.jpg" alt="video games">
+		</div>
+		<div class="animation-row">
+			<h3>Animation</h3>
+			<p>I like to do animations as a hobby, not the kinds where you need to draw each frame but the ones that includes 2d rigs, or nodes, that I joint together.</p>
+			<img class="animation-pic" src="images/animation.jpg" alt="animation">
+		</div>
+		<hr class="hr-2">
+	</div>
+		<div class="contact-me">
+			<h2>Get In Touch!</h2>
+			<h3>Contacts</h3>
+			<p>If you wanna get in touch, you can hit me up:</p>
+			<a href="contact.html">Here</a>			
+		</div>
+	</div>
 
-### Markdown
+	</div>
+</body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Skullyo/Skullyo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
