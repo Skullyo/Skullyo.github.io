@@ -1,7 +1,6 @@
 <html>
 
 <head>
-	<title>Personal Page</title>
 	<link rel="stylesheet" href="css/style1.css">
 </head>
 
