@@ -44,7 +44,6 @@
 			<p>If you wanna get in touch, you can hit me up:</p>
 			<a href="contact.html">Here</a>			
 		</div>
-	</div>
 </body>
 
 </html>
