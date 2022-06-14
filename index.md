@@ -46,8 +46,6 @@
 			<a href="contact.html">Here</a>			
 		</div>
 	</div>
-
-	</div>
 </body>
 
 </html>
