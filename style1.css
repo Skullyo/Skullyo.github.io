@@ -1,0 +1,92 @@
+body {
+    background-color: #361500; 
+    margin: 0;
+    font-family: monospace;
+    color: aliceblue;
+    word-spacing: 5%;
+}
+
+.profile {
+    background-color: #1C0A00;
+}
+
+.top-container{
+    background-color: #361500;
+    text-align: center;
+    position: relative;
+    height: 850px;
+    word-spacing: 5%;
+}
+
+.bottom-container {
+    text-align: center;
+    background-color: #361500;
+    height: 150px;
+    position: relative;
+    word-spacing: 5%;
+}
+
+.contact-me {   
+    padding-top: 20px;
+    background-color: #603601;
+    position: relative;
+    top: 595px;
+    margin: auto;
+    text-align: center;
+}
+
+.profile-pic {
+    height: 300px;
+    width: 300px;
+}
+
+
+.gym-pic {
+    height: 250px;
+    width: 450px;
+    border-radius: 25px;
+    margin-bottom: 50px;
+}
+
+
+.school-pic {
+    height: 250px;
+    width: 450px;
+    border-radius: 25px;
+    margin-bottom: 50px;
+}
+
+
+.video-games-pic {
+    height: 250px;
+    width: 450px;
+    border-radius: 25px;
+    margin-bottom: 50px
+}
+
+
+.animation-pic {
+    height: 250px;
+    width: 450px;
+    border-radius: 25px;
+    margin-bottom: 50px
+}
+
+.hr-1 {
+    border-top: rgb(238, 218, 153) dotted 5px;
+    width: 1215px;
+}
+.hr-2 {
+    border-top: rgb(238, 218, 153) dashed 5px;
+    left: 50px;
+    width: 1215px;
+    text-align: center;
+    margin: auto;
+}
+
+a {
+    background-color: #6c5a50;
+    height: auto;
+    width: auto;
+    color: aliceblue;
+}
